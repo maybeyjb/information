@@ -4,15 +4,18 @@
 
 1、备案信息  
 
-![image-20250304175858358](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451806.png)
+<img width="1365" height="350" alt="image" src="https://github.com/user-attachments/assets/5b1ec76c-cf85-4c72-a615-f5656ac759f6" />
+
 
 2、企业产权  app，小程序等。     小蓝本、爱妻查、企查查等
 
 查到网站的企业，就可以查看其下的其他域名或者网站、app资产等：
 
-![image-20250304180124220](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451807.png)
+<img width="1366" height="666" alt="image" src="https://github.com/user-attachments/assets/691d8cf7-90dd-4bad-9d0b-56fb40b6c5f8" />
 
-![image-20250304181141460](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451808.png)
+
+<img width="1367" height="543" alt="image" src="https://github.com/user-attachments/assets/e090d811-34cb-4122-8d87-e7720a7d39ea" />
+
 
 3、域名相关性
 
