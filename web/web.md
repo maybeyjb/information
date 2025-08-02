@@ -108,11 +108,13 @@ cdn怎么识别厂商：
 
 ehole_windows
 
-![image-20250306225641668](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451817.png)
+<img width="1390" height="430" alt="image" src="https://github.com/user-attachments/assets/91787f6a-ee39-4d73-be66-2c7408d00a0d" />
+
 
 hfinger
 
-![image-20250306225737115](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451818.png)
+<img width="1325" height="552" alt="image" src="https://github.com/user-attachments/assets/3af7b9e4-6bba-4c04-b05e-588c19ff8764" />
+
 
 wappalyzer插件：
 
@@ -140,7 +142,8 @@ wappalyzer插件：
 
 类似碰到这种情况就是被waf拦截了：
 
-![image-20250306231240224](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451824.png)
+<img width="1271" height="1148" alt="image" src="https://github.com/user-attachments/assets/b921052d-155e-42b9-b0b2-c10a9ee292fc" />
+
 
 identYwaf.py 
 
@@ -162,7 +165,8 @@ wafw00f![image-20250306232754443](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img
 
 quake.exe：
 
-![image-20250306234610521](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451829.png)
+<img width="1367" height="586" alt="image" src="https://github.com/user-attachments/assets/fb61339c-8ff3-4c01-8ec4-51b33c7c4614" />
+
 
 ![image-20250306234748089](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451830.png)
 
@@ -180,7 +184,8 @@ quake.exe：
 
 IDEA比如说打开会自动产生一个.idea文件，就是保存你当前的状态，备份的，就是记住你上次对文件更改的操作，方便下次你打开还原到上次的状态。那么git源码泄露就是这个原理。
 
-![image-20250307213455651](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451833.png)
+<img width="1367" height="525" alt="image" src="https://github.com/user-attachments/assets/d678fdf0-b3c6-4933-93ec-24d5708c525a" />
+
 
 跑出来的源码在工具脚本下的目录中
 
@@ -196,7 +201,8 @@ DS_Store泄漏：
 
 ds_store_exp.py
 
-![image-20250307214742981](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451836.png)
+<img width="536" height="999" alt="image" src="https://github.com/user-attachments/assets/e6186f41-28af-4306-8ba5-0f31c843424f" />
+
 
 composer.json-未知指纹识别获取源码途径--------- php的，就和python里面的pip、java里面的maven这类库一样
 
