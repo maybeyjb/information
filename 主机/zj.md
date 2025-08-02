@@ -72,7 +72,8 @@ namp  支持换协议进行扫描端口：
 
 就比如碰到了启明星辰的汉马防火墙，就用漏洞库打，测试。或者厂商的默认密码等：
 
-![image-20250304172944239](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451804.png)
+<img width="1367" height="800" alt="image" src="https://github.com/user-attachments/assets/9e999f0c-295f-4cd1-8415-b98dec4b1fb2" />
+
 
 ![image-20250304173007953](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451805.png)
 
