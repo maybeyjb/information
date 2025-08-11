@@ -46,19 +46,23 @@ fofa有时间延迟，最新的网站是找不到。
 
 yakit：
 
-![image-20250304162423058](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451799.png)
+<img width="1367" height="841" alt="image" src="https://github.com/user-attachments/assets/07d1ee3a-eed6-42fb-b2a8-bca388adc4e1" />
+
 
 无影
 
-![image-20250304163150491](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451800.png)
+<img width="1367" height="567" alt="image" src="https://github.com/user-attachments/assets/1914c1ad-72c4-43eb-8fae-9dc97d38da9b" />
+
 
 C段全端口：
 
-![image-20250304163237513](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451801.png)
+<img width="1367" height="839" alt="image" src="https://github.com/user-attachments/assets/96adf472-3e66-4fee-bd95-9e4c047b0ce3" />
+
 
 namp  支持换协议进行扫描端口：
 
-![image-20250304163540110](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451802.png)
+<img width="1367" height="889" alt="image" src="https://github.com/user-attachments/assets/f637d3dc-67b0-482f-8bed-81837b1d902f" />
+
 
  防火墙拦截：换协议扫描，尝试。namp支持多种协议
 
