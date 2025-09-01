@@ -15,15 +15,19 @@
 
 #### 静态：
 
-app.py工具：![image-20250309140356876](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451884.png)
+app.py工具：
+<img width="1367" height="132" alt="image" src="https://github.com/user-attachments/assets/338cd404-c4f7-4132-a509-9226fd80e136" />
+
 
 提取到的信息：
 
-![image-20250309140904173](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451885.png)
+<img width="1367" height="909" alt="image" src="https://github.com/user-attachments/assets/41df05cd-a542-43b3-98d3-7df481ce101f" />
+
 
 apkleaks.py:
 
-![image-20250309141013379](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451886.png)
+<img width="1367" height="391" alt="image" src="https://github.com/user-attachments/assets/4e049bf8-8ac5-4c6f-8991-89ba543fd394" />
+
 
 会将结果放到txt文件中，里面有一些apikey、key或者域名的信息。
 
@@ -37,7 +41,8 @@ mobsf工具，测试软件app的。
 
 直接run.bat然后在上传目标apk文件。
 
-![image-20250309144042536](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451889.png)
+<img width="1367" height="785" alt="image" src="https://github.com/user-attachments/assets/e412b599-90b4-4a92-a949-8c69cdb4cd89" />
+
 
 上传看分析结果：
 
@@ -59,9 +64,10 @@ hook绕过限制抓包，调试。
 
 ![image-20250309145751130](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451892.png)
 
-具体后续绕过ssl协议、证书之类的后面app课程细讲。主要还是逆向方面的知识。
+后续绕过ssl协议、证书之类的：
 
-![image-20250309180840833](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451893.png)
+<img width="1367" height="648" alt="image" src="https://github.com/user-attachments/assets/a1010ab5-0329-4ce0-b0f1-b8661d26b6e4" />
+
 
   apk app获取：
 
