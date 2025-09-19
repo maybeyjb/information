@@ -98,7 +98,8 @@ SpringBoot：
 
 他会将这里默认下载，后续需要改一下
 
-![image-20250309134244992](https://cdn.jsdelivr.net/gh/maybeyjb/maybe/img/202506121451882.png)
+<img width="810" height="447" alt="image" src="https://github.com/user-attachments/assets/fd9f264c-5769-4564-ad59-43cbb118329c" />
+
 
 这工具也可以扫，然后识别你的框架。
 
